@@ -3,4 +3,4 @@
 cd ExampleRepo
 git pull
 
-jupyter-singleuser
+jupyter notebook --ip 0.0.0.0
