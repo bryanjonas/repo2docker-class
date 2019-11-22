@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd ExampleRepo
+git pull
+
+jupyter-singleuser
