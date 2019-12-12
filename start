@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd ExampleRepo
-git pull
+#cd ExampleRepo
+#git pull
 
-jupyterhub-singleuser
+#jupyterhub-singleuser
