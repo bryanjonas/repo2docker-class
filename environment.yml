@@ -16,7 +16,6 @@ dependencies:
   - tensorflow-gpu
   - cudatoolkit
   - gdal
-  - osgeo
   - poppler
   - kealib
   - scikit-learn
